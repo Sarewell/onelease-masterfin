@@ -1,0 +1,39 @@
+/*section bg blue*/
+#bgblue .title{
+    padding-top: 3rem;
+}
+/*section cartes LLD*/
+/*1er card*/
+#cardlld .cardstreet{
+    display:flex;
+        
+}
+#cardlld .cardLldUp {
+    display: flex;
+    width: 50%;
+    padding-right: 6rem;
+}
+.cardLldUp h2 {
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    font-size: x-large;
+}
+.cardLldUp h3 {
+    padding-bottom:0.5rem ;
+}
+.cardLldUp p {
+    padding-bottom: 1rem;
+}
+
+/*2ieme card*/
+
+.Cardcar .cardLldUp{
+    display: flex;
+    width: 50%;
+    padding-right: 6rem
+}
+
+
+
+    
+
